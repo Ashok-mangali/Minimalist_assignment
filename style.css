@@ -131,7 +131,7 @@ h4 {
 }
 h4:before{
     background-color: #F27121;
-    width: 1000vh;
+    width: 1500px;
     height: 9px;
     position: absolute;
     content: "";
